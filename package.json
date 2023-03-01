@@ -1,0 +1,10 @@
+{
+  "name": "solana-suite-container",
+  "version": "1.0.0",
+  "dependencies": {
+    "@solana-suite/core": "^0.5.6",
+    "@solana-suite/nft": "^0.5.6",
+    "@solana-suite/phantom": "^0.5.6",
+    "@solana-suite/shared": "^0.5.6"
+  }
+}
