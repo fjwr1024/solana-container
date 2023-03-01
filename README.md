@@ -19,3 +19,9 @@ docker images
 ```
 docker container run -it --name solana_conatiner solana_conatiner
 ```
+
+### 動作確認
+
+owner:  FcyTeHo9k9Km6xg4cFJWizyifFNsFWDzE4LK7BVV9FQK
+
+などとウォレット生成のログが出力されていればOK 
